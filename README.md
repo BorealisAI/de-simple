@@ -27,11 +27,11 @@ $ python main.py -dropout 0.4 -se_prop 0.36 -model DE-TransE
 ## Citation
 If you use the codes, please cite the following paper:
 ```
-@article{goel2019diachronic,
+@inproceedings{goel2020diachronic,
   title={Diachronic Embedding for Temporal Knowledge Graph Completion},
   author={Goel, Rishab and Kazemi, Seyed Mehran and Brubaker, Marcus and Poupart, Pascal},
-  journal={arXiv preprint arXiv:1907.03143},
-  year={2019}
+  booktitle={AAAI},
+  year={2020}
 }
 ```
 ## License
