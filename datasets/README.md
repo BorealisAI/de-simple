@@ -2,9 +2,11 @@
 ---
 
 # Source Description
+
 Integrated Crisis Early Warning System (ICEWS) consists of events that represent interactions between the socio-political actors (for instance, cooperative or hostile actions between individuals, groups, sectors and nation states). Each event consists of a source actor, event type, target actor and the event timestamp. The repository has a dump of the events from 1995-2015. The events are automatically extracted from news articles by the BBN ACCENT event coder. For more information on the data source, kindly refer to this link (https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/28075).
 
 # Reference 
+
 @article{boschee2015icews,
   &nbsp;&nbsp;title={ICEWS coded event data},
   &nbsp;&nbsp;author={Boschee, Elizabeth and Lautenschlager, Jennifer and O’Brien, Sean and Shellman, Steve and Starz, James and Ward, Michael},
