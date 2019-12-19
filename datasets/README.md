@@ -6,11 +6,11 @@
 **Reference:**
 ```
 @article{boschee2015icews,
-  &nbsp;&nbsp;title={ICEWS coded event data},
-  &nbsp;&nbsp;author={Boschee, Elizabeth and Lautenschlager, Jennifer and O’Brien, Sean and Shellman, Steve and Starz, James and Ward, Michael},
-  &nbsp;&nbsp;journal={Harvard Dataverse},
-  &nbsp;&nbsp;volume={12},
-  &nbsp;&nbsp;year={2015}
+  title={ICEWS coded event data},
+  author={Boschee, Elizabeth and Lautenschlager, Jennifer and O’Brien, Sean and Shellman, Steve and Starz, James and Ward, Michael},
+  journal={Harvard Dataverse},
+  volume={12},
+  year={2015}
 }
 ```
 
@@ -21,10 +21,10 @@
 **Dataset reference:**
 ```
 @article{garcia2018learning,
-  &nbsp;&nbsp;title={Learning sequence encoders for temporal knowledge graph completion},
-  &nbsp;&nbsp;author={Garc{\'\i}a-Dur{\'a}n, Alberto and Duman{\v{c}}i{\'c}, Sebastijan and Niepert, Mathias},
-  &nbsp;&nbsp;journal={arXiv preprint arXiv:1809.03202},
-  &nbsp;&nbsp;year={2018}
+  title={Learning sequence encoders for temporal knowledge graph completion},
+  author={Garc{\'\i}a-Dur{\'a}n, Alberto and Duman{\v{c}}i{\'c}, Sebastijan and Niepert, Mathias},
+  journal={arXiv preprint arXiv:1809.03202},
+  year={2018}
 }
 ```
 
@@ -37,14 +37,14 @@
 **Reference:**
 ```
 @inproceedings{leetaru2013gdelt,
-  &nbsp;&nbsp;title={Gdelt: Global data on events, location, and tone, 1979--2012},
-  &nbsp;&nbsp;author={Leetaru, Kalev and Schrodt, Philip A},
-  &nbsp;&nbsp;booktitle={ISA annual convention},
-  &nbsp;&nbsp;volume={2},
-  &nbsp;&nbsp;number={4},
-  &nbsp;&nbsp;pages={1--49},
-  &nbsp;&nbsp;year={2013},
-  &nbsp;&nbsp;organization={Citeseer}
+  title={Gdelt: Global data on events, location, and tone, 1979--2012},
+  author={Leetaru, Kalev and Schrodt, Philip A},
+  booktitle={ISA annual convention},
+  volume={2},
+  number={4},
+  pages={1--49},
+  year={2013},
+  organization={Citeseer}
 }
 ```
 
@@ -53,11 +53,11 @@
 **Dataset reference:**
 ```
 @inproceedings{trivedi2017know,
-  &nbsp;&nbsp;title={Know-evolve: Deep temporal reasoning for dynamic knowledge graphs},
-  &nbsp;&nbsp;author={Trivedi, Rakshit and Dai, Hanjun and Wang, Yichen and Song, Le},
-  &nbsp;&nbsp;booktitle={Proceedings of the 34th International Conference on Machine Learning-Volume 70},
-  &nbsp;&nbsp;pages={3462--3471},
-  &nbsp;&nbsp;year={2017},
-  &nbsp;&nbsp;organization={JMLR. org}
+  title={Know-evolve: Deep temporal reasoning for dynamic knowledge graphs},
+  author={Trivedi, Rakshit and Dai, Hanjun and Wang, Yichen and Song, Le},
+  booktitle={Proceedings of the 34th International Conference on Machine Learning-Volume 70},
+  pages={3462--3471},
+  year={2017},
+  organization={JMLR. org}
 }
 ```
